@@ -1,0 +1,3 @@
+- [요양급여의 적용기준 및 방법에 관한 세부사항과 심사지침](https://www.hira.or.kr/ebooksc/2025/10/BZ202510212390104.pdf)
+- [요양급여의 적용기준 및 방법에 관한 세부사항(약제)](https://www.hira.or.kr/ebooksc/2025/09/BZ202509122216350.pdf)
+- [보건복지부 훈령/예규/고시/지침](https://www.mohw.go.kr/board.es?mid=a10409020000&bid=0026)
